@@ -10,6 +10,7 @@ Estudante de Desenvolvimento de Sistemas no **SENAI**. Focado em **Backend** (**
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -28,9 +29,11 @@ Estudante de Desenvolvimento de Sistemas no **SENAI**. Focado em **Backend** (**
 
 ## 📂 Projetos em Destaque  
 
-- [Lista de Jogos](https://github.com/zNathan2303/dslist) – **API REST** construída com **Java + Spring Boot** para gerenciar uma lista de jogos. Inclui endpoints para listar jogos, filtrar por gênero, ver detalhes, e reposicionar itens em listas personalizadas. **Projeto com integração com frontend.**
+- [Adoção de Pets API](https://github.com/zNathan2303/adocao-pets-spring-boot) – **API REST** construída com **Java**, **Spring Boot** e **MySQL** para gerenciar um sistema de adoção de pets. Inclui CRUD (Create, Read, Update, Delete) de todas as tabelas e consultas SQL personalizadas.
 
-- [API de Produtos e Clientes](https://github.com/SEU-USUARIO/projeto-tarefas) – **API REST** em **Node.js + Express.js** para gerenciamento de produtos e clientes. Implementa operações CRUD completas, incluindo busca por ID e nome.
+- [Site YourAnimeList](https://github.com/zNathan2303/frontend-senai_api-jikan) – Aplicação **Frontend** responsiva construída com **HTML**, **CSS** e **JavaScript**, que consome a Jikan API (API pública do MyAnimeList).
+
+- [Locadora de Filmes API](https://github.com/zNathan2303/backend-senai_primeira-api-prisma) - **API REST** construída com **Node.js**, **Express.js**, **Prisma** e **MySQL** para gerenciar filmes de uma locadora. Está sendo desenvolvida durante as aulas de **Backend** do **SENAI**, mas já possui operações CRUD das tabelas sem FK.
 
 ## 📊 Estatísticas  
 
