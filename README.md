@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nathan!  
 
-Estudante de Desenvolvimento de Sistemas no **SENAI**. Focado em **Backend** (**Java** / **Node.js**), bancos de dados relacionais (**MySQL**) e seguindo boas práticas de programação. Sempre aprendendo e buscando evoluir como desenvolvedor.
+Estudante de Desenvolvimento de Sistemas no **SENAI**, buscando a primeira oportunidade na área. Sempre aprendendo e buscando evoluir como desenvolvedor.
 
 ## 🚀 Tecnologias
 
