@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nathan!  
 
-Estudante de Desenvolvimento de Sistemas no **SENAI**, buscando a primeira oportunidade na área. Sempre aprendendo e buscando evoluir como desenvolvedor.
+Estudante de Ciência da Computação, buscando a primeira oportunidade na área. Sempre aprendendo e buscando evoluir como desenvolvedor.
 
 ## 🚀 Tecnologias
 
