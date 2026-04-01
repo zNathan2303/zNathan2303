@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nathan!  
 
-Estudante de Ciência da Computação, buscando a primeira oportunidade na área. Sempre aprendendo e buscando evoluir como desenvolvedor.
+Estudante de Ciência da Computação e Desenvolvimento de Sistemas no SENAI, buscando a primeira oportunidade na área. Sempre aprendendo e buscando evoluir como desenvolvedor.
 
 ## 🚀 Tecnologias
 
@@ -15,6 +15,7 @@ Estudante de Ciência da Computação, buscando a primeira oportunidade na área
 
 <p align="center">
   <b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -23,25 +24,11 @@ Estudante de Ciência da Computação, buscando a primeira oportunidade na área
 <p align="center">
   <b>Banco de Dados & Ferramentas</b><br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
-
-## 📂 Projetos em Destaque  
-
-- [Adoção de Pets API](https://github.com/zNathan2303/adocao-pets-spring-boot) – **API REST** construída com **Java**, **Spring Boot** e **MySQL** para gerenciar um sistema de adoção de pets. Inclui CRUD (Create, Read, Update, Delete) de todas as tabelas e consultas SQL personalizadas.
-
-- [Site YourAnimeList](https://github.com/zNathan2303/frontend-senai_api-jikan) – Aplicação **Frontend** responsiva construída com **HTML**, **CSS** e **JavaScript**, que consome a Jikan API (API pública do MyAnimeList).
-
-- [Locadora de Filmes API](https://github.com/zNathan2303/backend-senai_primeira-api-prisma) - **API REST** construída com **Node.js**, **Express.js**, **Prisma** e **MySQL** para gerenciar filmes de uma locadora. Está sendo desenvolvida durante as aulas de **Backend** do **SENAI**, mas já possui operações CRUD das tabelas sem FK.
-
-## 📊 Estatísticas  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zNathan2303&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNathan2303&layout=compact&theme=dark" height="180"/>
-</p>
-
 
 ## 📫 Onde me encontrar  
 
